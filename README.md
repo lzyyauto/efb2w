@@ -55,7 +55,7 @@ admins:
 ```
 保存为~/efb2w/blueset.telegram/config.yaml
 
-`docker run -v ~/efb2w/blueset.telegram/:/root/.ehforwarderbot/profiles/default/blueset.telegram/ efb2w`
+`docker run --name=efb2w -v ~/efb2w/blueset.telegram/:/root/.ehforwarderbot/profiles/default/blueset.telegram/ lzyyauto/efb2w`
 
 扫描登录即可.enjoy
 
