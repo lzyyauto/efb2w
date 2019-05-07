@@ -59,6 +59,6 @@ admins:
 
 扫描登录即可.enjoy
 
-PS:众所周知的原因.国内主机 or 自己的服务器还差一步联通telegram.自行解决
+PS:众所周知的原因.国内主机 or 自己的服务器还差一步连通telegram.自行解决
 
 参考资料 [blueset/ehForwarderBot](https://github.com/blueset/ehForwarderBot) 
